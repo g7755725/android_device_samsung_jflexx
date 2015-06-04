@@ -31,4 +31,3 @@ TARGET_OTA_ASSERT_DEVICE := jflte,jfltexx,i9505,GT-I9505,jgedlte,i9505g,GT-I9505
 
 # Kernel
 TARGET_KERNEL_CONFIG         := jf_eur_defconfig
-
