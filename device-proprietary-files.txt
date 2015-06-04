@@ -11,4 +11,3 @@ cameradata/RS_M10MO_SS.bin
 # Radio
 lib/libsec-ril.so
 lib/libril.so
-v
